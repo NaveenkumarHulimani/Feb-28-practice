@@ -1,0 +1,9 @@
+* {
+    padding: auto;
+    margin: auto;
+}
+
+body {
+    width: 100%;
+    font-family: monospace;
+}
